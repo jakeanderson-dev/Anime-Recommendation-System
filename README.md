@@ -46,7 +46,7 @@ A recommendation system that:
   - Higher scores reflect closer matches.
 
 ## Results
-- Recommendations align with user preferences, focusing on genres like Action, Comedy, and Shounen.
+- Recommendations align with user preferences, focusing on genres they like such as Action, Comedy, and Shounen.
 - AP@K achieved a score of 1 for specific users, indicating highly relevant suggestions.
 - Cosine similarity efficiently handles content alignment, offering scalable solutions for larger datasets.
 
