@@ -69,12 +69,12 @@ A recommendation system that:
 
 ## Screenshots
 ### Example Results
-![User Interaction Example](screenshot1_placeholder.png)
-*Figure 1: User interactions with anime data.*
+![User Interaction Example](images/results.jpg)
+*Figure 1: Results showing target anime for recommendations as well as the top 5 recommended.*
 
 ### Evaluation Metrics
-![Evaluation Metrics](screenshot2_placeholder.png)
-*Figure 2: Visualization of AP@K and similarity scores.*
+![Evaluation Metrics](images/results2.jpg)
+*Figure 2: More results. Note the high similarity score + high cosine similarity metrics indicate a similar anime.*
 
 ## Conclusion
 While both content-based and hybrid filtering methods produced good results, the content-based approach was preferred for its deeper analysis and scalability. Future improvements will aim to enhance diversity and user satisfaction further.
